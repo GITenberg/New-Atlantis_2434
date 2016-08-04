@@ -1,0 +1,55 @@
+_repo: New-Atlantis_2434
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bacon, Francis
+    aliases:
+    - St. Albans, Francis Bacon, Viscount
+    - Verulam, Francis Bacon
+    birthdate: 1561
+    deathdate: 1626
+    gutenberg_agent_id: '296'
+    url: http://www.gutenberg.org/2009/agents/296
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Bacon
+description: "New Atlantis is an incomplete utopian novel by Sir Francis Bacon, published\
+  \ in 1627. In this work, Bacon portrayed a vision of the future of human discovery\
+  \ and knowledge, expressing his aspirations and ideals for humankind. The novel\
+  \ depicts the creation of a utopian land where \"generosity and enlightenment, dignity\
+  \ and splendour, piety and public spirit\" are the commonly held qualities of the\
+  \ inhabitants of the mythical Bensalem. The plan and organisation of his ideal college,\
+  \ Salomon's House (or Solomon's House), envisioned the modern research university\
+  \ in both applied and pure sciences.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2000-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2434'
+  wikidata: Q1233830
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Utopias -- Early works to 1800'
+- !lcc 'HX'
+- GITenberg
+title: New Atlantis
+url: http://www.gutenberg.org/ebooks/2434
+wikipedia:
+- https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%88%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9
+- https://fi.wikipedia.org/wiki/Uusi_Atlantis
+- https://fr.wikipedia.org/wiki/La_Nouvelle_Atlantide
+- https://fr.wikiquote.org/wiki/La_Nouvelle_Atlantide
+- https://id.wikipedia.org/wiki/The_New_Atlantis
+- https://pl.wikipedia.org/wiki/Nowa_Atlantyda
+- https://cs.wikipedia.org/wiki/Nov%C3%A1_Atlantis
+- https://de.wikipedia.org/wiki/Nova_Atlantis
+- https://es.wikipedia.org/wiki/La_Nueva_Atl%C3%A1ntida
+- https://en.wikipedia.org/wiki/New_Atlantis
+- https://it.wikipedia.org/wiki/La_nuova_Atlantide
+- https://uk.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%B0_%D0%90%D1%82%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D0%B4%D0%B0
+- https://la.wikipedia.org/wiki/Nova_Atlantis
+- https://ps.wikipedia.org/wiki/%D9%86%D9%88%DB%8C_%D8%A7%D8%AA%D9%84%D8%A7%D9%86%D8%AA%DB%90%D8%B3
+- https://ca.wikipedia.org/wiki/La_Nova_Atl%C3%A0ntida
+- https://gl.wikipedia.org/wiki/Nova_Atl%C3%A1ntida
+- https://he.wikipedia.org/wiki/%D7%90%D7%98%D7%9C%D7%A0%D7%98%D7%99%D7%A1_%D7%94%D7%97%D7%93%D7%A9%D7%94

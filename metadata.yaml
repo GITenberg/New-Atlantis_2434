@@ -1,5 +1,8 @@
 _repo: New-Atlantis_2434
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bacon, Francis
@@ -19,6 +22,8 @@ description: "New Atlantis is an incomplete utopian novel by Sir Francis Bacon, 
   \ inhabitants of the mythical Bensalem. The plan and organisation of his ideal college,\
   \ Salomon's House (or Solomon's House), envisioned the modern research university\
   \ in both applied and pure sciences.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2434#New-Atlantis
 gutenberg_bookshelf: Harvard Classics
 gutenberg_issued: '2000-12-01'
 gutenberg_type: Text
